@@ -1,0 +1,5 @@
+The code is present in a jupyter notebook, A3.ipynb.
+If jupyter is not installed on the system, follow these steps:
+1.)Upload the code to GITHUB
+2.)Enter the Git URL in the text box at https://nbviewer.jupyter.org/
+3.)Access the jupyter notebook with the code
